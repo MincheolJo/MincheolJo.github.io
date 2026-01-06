@@ -13,7 +13,7 @@ My primary research interest is design and quality improvement through failure p
 
 ## Education
 
-*   **Mar.2025 - Present Kumoh National Institute of Technology, Department of Industrial Engineering, B.S. Student
+* Mar.2025 - Present Kumoh National Institute of Technology, Department of Industrial Engineering, B.S. Student
 
 ---
 
