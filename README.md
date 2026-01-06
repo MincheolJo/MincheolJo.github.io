@@ -1,6 +1,6 @@
 # MincheolJo.github.io
 
-![프로필 사진](여기에_복사한_이미지_주소를_붙여넣으세요)
+![프로필 사진](https://github.com/MincheolJo/MincheolJo.github.io/blob/main/%E1%84%8C%E1%85%A9%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A5%E1%86%AF.jpg?raw=true)
 
 ## Introduction
 
