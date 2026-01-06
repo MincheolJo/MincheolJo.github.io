@@ -1,5 +1,7 @@
 # MincheolJo.github.io
 
+![프로필 사진](여기에_복사한_이미지_주소를_붙여넣으세요)
+
 ## Introduction
 
 안녕하세요, 저는 국립금오공과대학교 산업공학과 학사 과정 재학 중이며, 데이터기반건전성예측관리 연구실(Prognostics and Health Management)에 소속되어 있습니다.
